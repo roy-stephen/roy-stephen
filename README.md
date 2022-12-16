@@ -1,7 +1,7 @@
 # About me
 ### Hi there 👋, I'm Stephen
 
-- 🌱 I am currently training as a Data Analyst. My next step is to deepen my knowledge with a Data Science training.
+- 🌱 I am a methodology-focused Data Analyst. My next step is to deepen my knowledge with a Data Science & Business Analytics training.
 
 - ✨ Fun fact: I speak two languages: English and French
 
