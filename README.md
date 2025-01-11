@@ -15,6 +15,7 @@
   
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roy-stephen&" alt="roy-stephen" /></p>
+  <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roy-stephen" alt="roy-stephen" /></a> </p>
 </div>
 
 ###
