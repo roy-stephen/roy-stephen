@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm an Economist / Data Scientist, from West Africa, Benin</h2>
+<h2 align="left">Hi 👋, I'm an Economist / Data Scientist, Benin</h2>
 
 ###
 
